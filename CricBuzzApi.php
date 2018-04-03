@@ -2,7 +2,7 @@
     require_once("Match.php");
 
     /**
-     * A PHP REST API for live cricket scores from espn CricBuzz rss feed.
+     * A PHP REST API for live cricket scores from CricBuzz rss feed.
      */
     class CricBuzzApi { 
         
